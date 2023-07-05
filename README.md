@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsohailcs&hide_progress=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahsohailcs&show_icons=true&locale=en" alt="abdullahsohailcs" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdullahsohailcs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
