@@ -11,12 +11,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 - 🔭 I’m currently working on Django and Data Science
 - 🌱 I’m currently learning Web Development and AI
 - 👯 I’m looking to collaborate on Open-Source Projects and Startups
+- ⚡ Fun fact: I have just started a medium blog https://medium.com/@abdullahsohailcs
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsohailcs&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsohailcs" /> </p>
 
