@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Django and Data Science
 - 🌱 I’m currently learning Web Development and AI
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,bootstrap,bash,c,cpp,cs,django,express,git,github,go,ai,linux,mongodb,mysql,nodejs,powershell,py,react,replit,sass,visualstudio,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,bootstrap,bash,c,cpp,cs,django,express,git,github,go,ai,linux,mongodb,mysql,nodejs,powershell,py,react,replit,sass,visualstudio,wordpress,vscode,sqlite,regex)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsohailcs&hide_progress=true)
