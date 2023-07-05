@@ -23,8 +23,12 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,bootstrap,bash,c,cpp,cs,django,express,git,github,go,ai,linux,mongodb,mysql,nodejs,powershell,py,react,replit,sass,visualstudio,redux,vscode,sqlite,regex)](https://skillicons.dev)
 
 
-<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsohailcs&hide_progress=true)</center>
+<center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsohailcs&hide_progress=true)
+</center>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdullahsohailcs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<center>![Jokes Card](https://readme-jokes.vercel.app/api)</center>
+<center>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</center>
