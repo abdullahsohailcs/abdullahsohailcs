@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development and AI
 - 👯 I’m looking to collaborate on Open-Source Projects and Startups
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsohailcs&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsohailcs" /> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,bootstrap,bash,c,cpp,cs,django,express,git,github,go,ai,linux,mongodb,mysql,nodejs,powershell,py,react,replit,sass,visualstudio,redux,vscode,sqlite,regex)](https://skillicons.dev)
