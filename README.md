@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<center><h5>"Real knowledge is to know the extent of one's ignorance."- Confucius</h5></center>
