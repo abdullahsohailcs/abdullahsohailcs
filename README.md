@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdullahsohailcs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api) 
 
 <center><h5 align="center">"Real knowledge is to know the extent of one's ignorance."- Confucius</h5></center>
