@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,react,bootstrap,bash,c,cpp,cs,django,express,git,github,go,ai,linux,mongodb,mysql,nodejs,powershell,py,react,replit,sass,visualstudio,redux,vscode,sqlite,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,react,bootstrap,bash,c,cpp,cs,django,express,git,github,go,ai,linux,mongodb,mysql,nodejs,powershell,py,react,sass,visualstudio,redux,vscode,sqlite,regex)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsohailcs&hide_progress=true)
