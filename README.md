@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdullah Sohail 👋</h1>
+<h1>Hi, I'm Abdullah Sohail</h1>
 
 <!--
 **abdullahsohailcs/abdullahsohailcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
