@@ -29,12 +29,8 @@ I'm a passionate developer and data enthusiast, currently focusing on Django and
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/abdullahsohailcs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsohailcs&theme=radical&hide_langs_below=1" />
-</a>
-<a href="https://github.com/abdullahsohailcs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahsohailcs&show_icons=true&theme=radical&line_height=27" alt="Abdullah's GitHub stats" />
-</a>
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahsohailcs)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahsohailcs)
 
 ## 🏆 GitHub Trophies
 
