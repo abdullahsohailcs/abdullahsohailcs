@@ -9,8 +9,8 @@
 
 I'm a passionate developer and data enthusiast, currently focusing on Django and Data Science. I love to learn and collaborate on innovative projects!
 
-- 🔭 I'm currently working on **Django and Data Science projects**
-- 🌱 I'm learning **Web Development and AI**
+- 🔭 I'm currently working on **Java**
+- 🌱 I'm learning **Advance Backend and AI**
 - 👯 I'm looking to collaborate on **Open-Source Projects and Startups**
 - ⚡ Fun fact: I recently started a [Medium blog](https://medium.com/@abdullahsohailcs) to share my journey and insights!
 
