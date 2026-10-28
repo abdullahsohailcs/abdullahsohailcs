@@ -1,6 +1,6 @@
 # Hi, I'm Abdullah Sohail 👋
 
-**Backend & AI Engineer** in Lahore. I build reliable backend systems and add AI to them: RAG assistants, LLM features and workflow automation.
+**Backend & AI Engineer** based in Lahore, Pakistan (UTC+5), open to relocation and remote work worldwide. I build reliable backend systems and add AI to them: RAG assistants, LLM features and workflow automation.
 
 [![LinkedIn](https://img.shields.io/badge/-Abdullah%20Sohail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahsohailcs/)](https://www.linkedin.com/in/abdullahsohailcs/)
 [![Medium](https://img.shields.io/badge/Medium-@abdullahsohailcs-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abdullahsohailcs)
