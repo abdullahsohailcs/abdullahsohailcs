@@ -43,7 +43,7 @@
 
 ## 🚀 Featured projects
 
-- **[Web Scraping & Data Extraction Portfolio](https://github.com/abdullahsohailcs/Python-Web-Scraping-Portfolio-BeautifulSoup-Selenium-Playwright-Scrapy)**: scrapers for static and dynamic sites, including a European drug shortage monitor covering five countries (Scrapy, Playwright, Selenium, BeautifulSoup)
+- **[Web Scraping & Data Extraction Portfolio](https://github.com/abdullahsohailcs/web-scraping-automation-portfolio)**: scrapers for static and dynamic sites, including a European drug shortage monitor covering five countries (Scrapy, Playwright, Selenium, BeautifulSoup)
 - **RAG assistant on FastAPI**: coming soon
 - **n8n AI lead follow-up workflow**: coming soon
 
