@@ -9,7 +9,7 @@
 
 ## About me
 
-- 💼 **Now:** Software Engineer at Sofy, building Java/Spring Boot microservices for a no-code mobile automation platform
+- 💼 **Now:** Software Engineer at Sofy, building the backend, AI testing agents and device-farm infrastructure of an AI-powered mobile testing platform
 - 🎮 **Before:** FRAG Games, a distributed game backend in Java Akka, Redis, MongoDB, RabbitMQ and AWS. Cut backend latency from seconds to milliseconds
 - 🤖 **Building:** RAG assistants and AI automations in Python and Java
 - 📜 **Certified:** DataCamp Associate AI Engineer · DataCamp Data Engineer in Python
@@ -19,7 +19,7 @@
 
 - RAG assistants and LLM features (Python, FastAPI, LangChain · Java, Spring AI)
 - Workflow automation (n8n) and API integrations
-- Data pipelines and web scraping for public data
+- Data pipelines that turn messy public sources into clean datasets
 
 ## 🛠️ Tech stack
 
@@ -43,7 +43,7 @@
 
 ## 🚀 Featured projects
 
-- **[Web Scraping & Data Extraction Portfolio](https://github.com/abdullahsohailcs/web-scraping-automation-portfolio)**: scrapers for static and dynamic sites, including a European drug shortage monitor covering five countries (Playwright, Requests, BeautifulSoup, pandas)
+- **[EU Drug Shortage Monitor](https://github.com/abdullahsohailcs/eu-drug-shortage-monitor)**: official medicine-shortage data from five EU regulators, collected and normalised into one dataset (Python, pandas, Playwright)
 - **RAG assistant on FastAPI**: coming soon
 - **n8n AI lead follow-up workflow**: coming soon
 
